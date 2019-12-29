@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "CourseWorkSample/1.0.0": {
+        "dependencies": {
+          "DataHandler": "1.0.0"
+        },
+        "runtime": {
+          "CourseWorkSample.dll": {}
+        }
+      },
+      "DataHandler/1.0.0": {
+        "runtime": {
+          "DataHandler.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CourseWorkSample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DataHandler/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

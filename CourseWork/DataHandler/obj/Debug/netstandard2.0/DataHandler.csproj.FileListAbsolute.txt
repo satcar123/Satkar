@@ -1,0 +1,16 @@
+C:\Users\Lenovo\Desktop\Informatics\CW\CourseWorkSample\DataHandler\bin\Debug\netstandard2.0\DataHandler.deps.json
+C:\Users\Lenovo\Desktop\Informatics\CW\CourseWorkSample\DataHandler\bin\Debug\netstandard2.0\DataHandler.dll
+C:\Users\Lenovo\Desktop\Informatics\CW\CourseWorkSample\DataHandler\bin\Debug\netstandard2.0\DataHandler.pdb
+C:\Users\Lenovo\Desktop\Informatics\CW\CourseWorkSample\DataHandler\obj\Debug\netstandard2.0\DataHandler.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Informatics\CW\CourseWorkSample\DataHandler\obj\Debug\netstandard2.0\DataHandler.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Informatics\CW\CourseWorkSample\DataHandler\obj\Debug\netstandard2.0\DataHandler.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Informatics\CW\CourseWorkSample\DataHandler\obj\Debug\netstandard2.0\DataHandler.dll
+C:\Users\Lenovo\Desktop\Informatics\CW\CourseWorkSample\DataHandler\obj\Debug\netstandard2.0\DataHandler.pdb
+C:\Users\SaT KaR\Downloads\CourseWorkSample\DataHandler\bin\Debug\netstandard2.0\DataHandler.deps.json
+C:\Users\SaT KaR\Downloads\CourseWorkSample\DataHandler\bin\Debug\netstandard2.0\DataHandler.dll
+C:\Users\SaT KaR\Downloads\CourseWorkSample\DataHandler\bin\Debug\netstandard2.0\DataHandler.pdb
+C:\Users\SaT KaR\Downloads\CourseWorkSample\DataHandler\obj\Debug\netstandard2.0\DataHandler.csprojAssemblyReference.cache
+C:\Users\SaT KaR\Downloads\CourseWorkSample\DataHandler\obj\Debug\netstandard2.0\DataHandler.AssemblyInfoInputs.cache
+C:\Users\SaT KaR\Downloads\CourseWorkSample\DataHandler\obj\Debug\netstandard2.0\DataHandler.AssemblyInfo.cs
+C:\Users\SaT KaR\Downloads\CourseWorkSample\DataHandler\obj\Debug\netstandard2.0\DataHandler.dll
+C:\Users\SaT KaR\Downloads\CourseWorkSample\DataHandler\obj\Debug\netstandard2.0\DataHandler.pdb

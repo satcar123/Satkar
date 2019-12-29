@@ -1,0 +1,91 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "DataHandler/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/DataHandler.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DataHandler.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DataHandler/1.0.0": {
+      "type": "project",
+      "path": "../DataHandler/DataHandler.csproj",
+      "msbuildProject": "../DataHandler/DataHandler.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.0": [
+      "DataHandler >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\SaT KaR\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\SaT KaR\\Downloads\\CourseWorkSample\\CourseWorkSample\\CourseWorkSample.csproj",
+      "projectName": "CourseWorkSample",
+      "projectPath": "C:\\Users\\SaT KaR\\Downloads\\CourseWorkSample\\CourseWorkSample\\CourseWorkSample.csproj",
+      "packagesPath": "C:\\Users\\SaT KaR\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\SaT KaR\\Downloads\\CourseWorkSample\\CourseWorkSample\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\SaT KaR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "projectReferences": {
+            "C:\\Users\\SaT KaR\\Downloads\\CourseWorkSample\\DataHandler\\DataHandler.csproj": {
+              "projectPath": "C:\\Users\\SaT KaR\\Downloads\\CourseWorkSample\\DataHandler\\DataHandler.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WPF": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

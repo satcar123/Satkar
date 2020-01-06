@@ -184,11 +184,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SaT KaR\\Downloads\\CourseWorkSample\\DataHandler\\DataHandler.csproj",
+      "projectUniqueName": "E:\\myfiles\\Application Development\\Git\\Satkar\\CourseWork\\DataHandler\\DataHandler.csproj",
       "projectName": "DataHandler",
-      "projectPath": "C:\\Users\\SaT KaR\\Downloads\\CourseWorkSample\\DataHandler\\DataHandler.csproj",
+      "projectPath": "E:\\myfiles\\Application Development\\Git\\Satkar\\CourseWork\\DataHandler\\DataHandler.csproj",
       "packagesPath": "C:\\Users\\SaT KaR\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SaT KaR\\Downloads\\CourseWorkSample\\DataHandler\\obj\\",
+      "outputPath": "E:\\myfiles\\Application Development\\Git\\Satkar\\CourseWork\\DataHandler\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\SaT KaR\\AppData\\Roaming\\NuGet\\NuGet.Config",

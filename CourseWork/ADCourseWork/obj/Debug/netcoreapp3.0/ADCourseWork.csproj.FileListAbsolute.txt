@@ -1,0 +1,60 @@
+C:\Users\Lenovo\Desktop\Informatics\CW\CourseWorkSample\CourseWorkSample\bin\Debug\netcoreapp3.0\CourseWorkSample.exe
+C:\Users\Lenovo\Desktop\Informatics\CW\CourseWorkSample\CourseWorkSample\bin\Debug\netcoreapp3.0\CourseWorkSample.deps.json
+C:\Users\Lenovo\Desktop\Informatics\CW\CourseWorkSample\CourseWorkSample\bin\Debug\netcoreapp3.0\CourseWorkSample.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Informatics\CW\CourseWorkSample\CourseWorkSample\bin\Debug\netcoreapp3.0\CourseWorkSample.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\Informatics\CW\CourseWorkSample\CourseWorkSample\bin\Debug\netcoreapp3.0\CourseWorkSample.dll
+C:\Users\Lenovo\Desktop\Informatics\CW\CourseWorkSample\CourseWorkSample\bin\Debug\netcoreapp3.0\CourseWorkSample.pdb
+C:\Users\Lenovo\Desktop\Informatics\CW\CourseWorkSample\CourseWorkSample\bin\Debug\netcoreapp3.0\DataHandler.dll
+C:\Users\Lenovo\Desktop\Informatics\CW\CourseWorkSample\CourseWorkSample\bin\Debug\netcoreapp3.0\DataHandler.pdb
+C:\Users\Lenovo\Desktop\Informatics\CW\CourseWorkSample\CourseWorkSample\obj\Debug\netcoreapp3.0\CourseWorkSample.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Informatics\CW\CourseWorkSample\CourseWorkSample\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+C:\Users\Lenovo\Desktop\Informatics\CW\CourseWorkSample\CourseWorkSample\obj\Debug\netcoreapp3.0\App.g.cs
+C:\Users\Lenovo\Desktop\Informatics\CW\CourseWorkSample\CourseWorkSample\obj\Debug\netcoreapp3.0\CourseWorkSample_MarkupCompile.cache
+C:\Users\Lenovo\Desktop\Informatics\CW\CourseWorkSample\CourseWorkSample\obj\Debug\netcoreapp3.0\CourseWorkSample_MarkupCompile.lref
+C:\Users\Lenovo\Desktop\Informatics\CW\CourseWorkSample\CourseWorkSample\obj\Debug\netcoreapp3.0\MainWindow.baml
+C:\Users\Lenovo\Desktop\Informatics\CW\CourseWorkSample\CourseWorkSample\obj\Debug\netcoreapp3.0\CourseWorkSample.g.resources
+C:\Users\Lenovo\Desktop\Informatics\CW\CourseWorkSample\CourseWorkSample\obj\Debug\netcoreapp3.0\CourseWorkSample.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Informatics\CW\CourseWorkSample\CourseWorkSample\obj\Debug\netcoreapp3.0\CourseWorkSample.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Informatics\CW\CourseWorkSample\CourseWorkSample\obj\Debug\netcoreapp3.0\CourseWorkSample.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\Informatics\CW\CourseWorkSample\CourseWorkSample\obj\Debug\netcoreapp3.0\CourseWorkSample.dll
+C:\Users\Lenovo\Desktop\Informatics\CW\CourseWorkSample\CourseWorkSample\obj\Debug\netcoreapp3.0\CourseWorkSample.pdb
+C:\Users\SaT KaR\Downloads\CourseWorkSample\CourseWorkSample\bin\Debug\netcoreapp3.0\CourseWorkSample.exe
+C:\Users\SaT KaR\Downloads\CourseWorkSample\CourseWorkSample\bin\Debug\netcoreapp3.0\CourseWorkSample.deps.json
+C:\Users\SaT KaR\Downloads\CourseWorkSample\CourseWorkSample\bin\Debug\netcoreapp3.0\CourseWorkSample.runtimeconfig.json
+C:\Users\SaT KaR\Downloads\CourseWorkSample\CourseWorkSample\bin\Debug\netcoreapp3.0\CourseWorkSample.runtimeconfig.dev.json
+C:\Users\SaT KaR\Downloads\CourseWorkSample\CourseWorkSample\bin\Debug\netcoreapp3.0\CourseWorkSample.dll
+C:\Users\SaT KaR\Downloads\CourseWorkSample\CourseWorkSample\bin\Debug\netcoreapp3.0\CourseWorkSample.pdb
+C:\Users\SaT KaR\Downloads\CourseWorkSample\CourseWorkSample\bin\Debug\netcoreapp3.0\DataHandler.dll
+C:\Users\SaT KaR\Downloads\CourseWorkSample\CourseWorkSample\bin\Debug\netcoreapp3.0\DataHandler.pdb
+C:\Users\SaT KaR\Downloads\CourseWorkSample\CourseWorkSample\obj\Debug\netcoreapp3.0\CourseWorkSample.csprojAssemblyReference.cache
+C:\Users\SaT KaR\Downloads\CourseWorkSample\CourseWorkSample\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+C:\Users\SaT KaR\Downloads\CourseWorkSample\CourseWorkSample\obj\Debug\netcoreapp3.0\App.g.cs
+C:\Users\SaT KaR\Downloads\CourseWorkSample\CourseWorkSample\obj\Debug\netcoreapp3.0\CourseWorkSample_MarkupCompile.cache
+C:\Users\SaT KaR\Downloads\CourseWorkSample\CourseWorkSample\obj\Debug\netcoreapp3.0\CourseWorkSample_MarkupCompile.lref
+C:\Users\SaT KaR\Downloads\CourseWorkSample\CourseWorkSample\obj\Debug\netcoreapp3.0\MainWindow.baml
+C:\Users\SaT KaR\Downloads\CourseWorkSample\CourseWorkSample\obj\Debug\netcoreapp3.0\CourseWorkSample.g.resources
+C:\Users\SaT KaR\Downloads\CourseWorkSample\CourseWorkSample\obj\Debug\netcoreapp3.0\CourseWorkSample.AssemblyInfoInputs.cache
+C:\Users\SaT KaR\Downloads\CourseWorkSample\CourseWorkSample\obj\Debug\netcoreapp3.0\CourseWorkSample.AssemblyInfo.cs
+C:\Users\SaT KaR\Downloads\CourseWorkSample\CourseWorkSample\obj\Debug\netcoreapp3.0\CourseWorkSample.csproj.CopyComplete
+C:\Users\SaT KaR\Downloads\CourseWorkSample\CourseWorkSample\obj\Debug\netcoreapp3.0\CourseWorkSample.dll
+C:\Users\SaT KaR\Downloads\CourseWorkSample\CourseWorkSample\obj\Debug\netcoreapp3.0\CourseWorkSample.pdb
+E:\myfiles\Git\Satkar\CourseWork\CourseWorkSample\obj\Debug\netcoreapp3.0\CourseWorkSample.csprojAssemblyReference.cache
+E:\myfiles\Git\Satkar\CourseWork\CourseWorkSample\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+E:\myfiles\Git\Satkar\CourseWork\CourseWorkSample\obj\Debug\netcoreapp3.0\App.g.cs
+E:\myfiles\Git\Satkar\CourseWork\CourseWorkSample\obj\Debug\netcoreapp3.0\CourseWorkSample_MarkupCompile.cache
+E:\myfiles\Git\Satkar\CourseWork\CourseWorkSample\obj\Debug\netcoreapp3.0\CourseWorkSample_MarkupCompile.lref
+E:\myfiles\Git\Satkar\CourseWork\CourseWorkSample\obj\Debug\netcoreapp3.0\CourseWorkSample.dll
+E:\myfiles\Git\Satkar\CourseWork\CourseWorkSample\obj\Debug\netcoreapp3.0\CourseWorkSample.pdb
+E:\myfiles\Git\Satkar\CourseWork\CourseWorkSample\bin\Debug\netcoreapp3.0\CourseWorkSample.exe
+E:\myfiles\Git\Satkar\CourseWork\CourseWorkSample\bin\Debug\netcoreapp3.0\CourseWorkSample.deps.json
+E:\myfiles\Git\Satkar\CourseWork\CourseWorkSample\bin\Debug\netcoreapp3.0\CourseWorkSample.runtimeconfig.json
+E:\myfiles\Git\Satkar\CourseWork\CourseWorkSample\bin\Debug\netcoreapp3.0\CourseWorkSample.runtimeconfig.dev.json
+E:\myfiles\Git\Satkar\CourseWork\CourseWorkSample\bin\Debug\netcoreapp3.0\CourseWorkSample.dll
+E:\myfiles\Git\Satkar\CourseWork\CourseWorkSample\bin\Debug\netcoreapp3.0\CourseWorkSample.pdb
+E:\myfiles\Git\Satkar\CourseWork\CourseWorkSample\bin\Debug\netcoreapp3.0\DataHandler.dll
+E:\myfiles\Git\Satkar\CourseWork\CourseWorkSample\bin\Debug\netcoreapp3.0\DataHandler.pdb
+E:\myfiles\Git\Satkar\CourseWork\CourseWorkSample\obj\Debug\netcoreapp3.0\MainWindow.baml
+E:\myfiles\Git\Satkar\CourseWork\CourseWorkSample\obj\Debug\netcoreapp3.0\CourseWorkSample.g.resources
+E:\myfiles\Git\Satkar\CourseWork\CourseWorkSample\obj\Debug\netcoreapp3.0\CourseWorkSample.AssemblyInfoInputs.cache
+E:\myfiles\Git\Satkar\CourseWork\CourseWorkSample\obj\Debug\netcoreapp3.0\CourseWorkSample.AssemblyInfo.cs
+E:\myfiles\Git\Satkar\CourseWork\CourseWorkSample\obj\Debug\netcoreapp3.0\CourseWorkSample.csproj.CopyComplete

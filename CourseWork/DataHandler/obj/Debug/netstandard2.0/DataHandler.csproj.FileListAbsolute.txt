@@ -14,3 +14,11 @@ C:\Users\SaT KaR\Downloads\CourseWorkSample\DataHandler\obj\Debug\netstandard2.0
 C:\Users\SaT KaR\Downloads\CourseWorkSample\DataHandler\obj\Debug\netstandard2.0\DataHandler.AssemblyInfo.cs
 C:\Users\SaT KaR\Downloads\CourseWorkSample\DataHandler\obj\Debug\netstandard2.0\DataHandler.dll
 C:\Users\SaT KaR\Downloads\CourseWorkSample\DataHandler\obj\Debug\netstandard2.0\DataHandler.pdb
+E:\myfiles\Git\Satkar\CourseWork\DataHandler\bin\Debug\netstandard2.0\DataHandler.deps.json
+E:\myfiles\Git\Satkar\CourseWork\DataHandler\bin\Debug\netstandard2.0\DataHandler.dll
+E:\myfiles\Git\Satkar\CourseWork\DataHandler\bin\Debug\netstandard2.0\DataHandler.pdb
+E:\myfiles\Git\Satkar\CourseWork\DataHandler\obj\Debug\netstandard2.0\DataHandler.csprojAssemblyReference.cache
+E:\myfiles\Git\Satkar\CourseWork\DataHandler\obj\Debug\netstandard2.0\DataHandler.AssemblyInfoInputs.cache
+E:\myfiles\Git\Satkar\CourseWork\DataHandler\obj\Debug\netstandard2.0\DataHandler.AssemblyInfo.cs
+E:\myfiles\Git\Satkar\CourseWork\DataHandler\obj\Debug\netstandard2.0\DataHandler.dll
+E:\myfiles\Git\Satkar\CourseWork\DataHandler\obj\Debug\netstandard2.0\DataHandler.pdb
